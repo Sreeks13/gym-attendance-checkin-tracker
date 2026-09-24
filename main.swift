@@ -142,3 +142,4 @@ for item in flagged {
 }
 
 print("\n===========================================")
+// The final report summarizes valid visits and flagged records.
