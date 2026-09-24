@@ -72,3 +72,4 @@ extension Int {
         }
     }
 }
+// Validates and cleans a gym check-in record before it is processed.
